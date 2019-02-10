@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is F8BD-27E5
+
+ Directory of D:\Jenkin-tutorials\Javaproject1
+
+10-02-2019  12:07    <DIR>          .
+10-02-2019  12:07    <DIR>          ..
+10-02-2019  12:07                 0 foo.txt
+10-02-2019  11:58               901 hello.class
+10-02-2019  11:53               190 hello.java
+               3 File(s)          1,091 bytes
+               2 Dir(s)  364,007,460,864 bytes free
